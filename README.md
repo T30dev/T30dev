@@ -1,8 +1,9 @@
-# ✨ ¡Hey, bienvenido!
+# ✨ Hey there, welcome!
 
-Este es mi rincón en GitHub 😄  
-Voy subiendo ideas, pruebas y cosas que voy cacharreando.
+This is my little corner on GitHub 😄
 
-🚧 Perfil en construcción. Siempre aprendiendo.
- 
-Gracias por pasar, curiosea lo que quieras 👀
+I share ideas, tests, and random stuff I'm tinkering with.
+
+🚧 Profile under construction. Always learning.
+
+Thanks for stopping by — feel free to poke around 👀
