@@ -1,4 +1,8 @@
-# Hola, mi nombre es Teo.
+# ✨ ¡Hey, bienvenido!
 
-👋
-Aquí iré subiendo pruebas, scripts y proyectos relacionados con automatización, redes y 3D.
+Este es mi rincón en GitHub 😄  
+Voy subiendo ideas, pruebas y cosas que voy cacharreando.
+
+🚧 Perfil en construcción. Siempre aprendiendo.
+
+Gracias por pasar, curiosea lo que quieras 👀
